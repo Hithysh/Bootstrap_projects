@@ -1,2 +1,2 @@
 # ResumeDone
-It is a dynamic resume generator created using HTML, CSS, Javascript, Bootstrap.
+Generate a visually appealing resume by just filling out the form provided.
